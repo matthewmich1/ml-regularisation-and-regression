@@ -1,4 +1,4 @@
-### **Project: Bias-Variance Tradeoff and Regularisation in Machine Learning**
+## **Project: Bias-Variance Tradeoff and Regularisation in Machine Learning**
 
 ### Overview
 Investigated the impact of model complexity and regularisation on predictive performance using polynomial, 
@@ -21,7 +21,7 @@ Evaluated bias–variance trade-offs, generalisation error, and model selection 
 - Classification and Regression Modelling
 - Data Visualisation
 
-## Technologies Used
+### Technologies Used
 - Python
 - NumPy
 - Pandas
@@ -29,7 +29,7 @@ Evaluated bias–variance trade-offs, generalisation error, and model selection 
 - Matplotlib
 - Jupyter Notebook
 
-## Results
+### Results
 <img width="556" height="301" alt="bias-variance-tradeoff" src="https://github.com/user-attachments/assets/50b92fe3-b7ee-410b-9234-a1f3bfcb5084" />
 
 Training and testing mean squared error (MSE) as a function of model complexity. From the plot we see that the polynomial regression model with k = 8 has the best bias-variance 
